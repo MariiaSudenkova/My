@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Опросник для котика</title>
+    <link rel="shortcut icon" href="https://as2.ftcdn.net/v2/jpg/01/17/31/71/1000_F_117317171_yADUuhAG5oW5IkdtENiYR4C0SSHx1sKp.jpg" type="image/svg">
+</head>
+
+<body>
+    <h1>Опрос для владельцев кошек</h1>  
+    <p>Для улучшения качества обслуживания просим Вас пройти небольшой опрос.</p>
+    <img src="https://avatars.mds.yandex.net/get-zen_doc/5211354/pub_61b8d452377d4c15fe9c3bca_61b8d454a63e9b5df49168f0/scale_1200" alt="Красивая кошка">
+    <p><b>Заполните небольшую анкету:</b></p>
+    <div>
+        <label for="name"><b>Кличка питомца</b></label>
+        <input type="text" id="name" />
+    <div>
+    <label for="name"><b>Имя и контакты владельца</b></label>
+    <input type="text" id="name" />
+    <div>
+        <label for="name"><b>Порода питомца</b></label>
+        <select>
+            <option value="1">Британская</option>
+            <option value="2">Шотландская</option>
+            <option value="3">Вислоухая</option>
+            <option value="4">Сибирская</option>
+        </select>
+    <div>
+        <label for="name"><b>Чем питается:</b></label><br> 
+        <input type="checkbox" name="space" value="1" /> Сухой корм<br>
+        <input type="checkbox" name="space" value="1" /> Влажный корм<br>
+        <input type="checkbox" name="space" value="1" /> Натуральный корм
+<div>
+        <label for="name"><b>Пол животного</b></label><br>
+    <input type="radio" name="s" value="m" />Самец<br>
+    <input type="radio" name="s" value="f" />Самка<br>
+    <div>
+        <p><label for="name"><b>Комментарий владельца:</b></label></p>
+        <textarea rows="8"></textarea>
+        <div>
+            <label for="name"><b>Загрузите фото питомца</b></label> 
+            <input type="file" />
+            <div>
+            <button>Сохранить</button>
+        </div>
+</body>
+
+</html>
