@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>Портрет актрисы Жанны Самари</h1>
+        <h2>Портрет актрисы Жанны Самари — портрет молодой актрисы театра «Комеди Франсез»,<br> написанный Огюстом Ренуаром в 1877 году. Хранится в Москве, в музее имени Пушкина.</h2>
+    </header>
+    <nav>
+        <p>Меню:</p>
+            <ul>
+                <li><a href="#">Раздел 1</a></li>
+                <li><a href="#">Раздел 2</a></li>
+                <li><a href="#">Раздел 3</a></li>
+            </ul>
+    </nav>
+    <p>
+        <button>История написания картины</button>
+    </p>
+<main>
+    <section>
+        <p>Одновременно улыбающаяся и задумчивая, в изысканном зелено-голубом платье, актриса предстает перед зрителем на воздушном розовом фоне.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Actress_Jeane_Samary_IMG_6910.JPG/450px-Actress_Jeane_Samary_IMG_6910.JPG" alt="Жанна Самари" />
+    </section>
+    <section>
+        <h3>Факты о картине</h3>
+        <ul>
+            <li>Основные</li>
+            <li>Основные</li>
+            <li>Основные</li>
+            <li>Основные</li>
+        </ul>
+    </section>
+</main>
+<footer>
+    <address>
+        <div>Контакты<br>
+        Город Санкт-Петербург, Улица Есенина, дом 20<br>
+    Телефон: 89214752784</div>
+    </address>
+</footer>
+
+</body>
+
+</html>
