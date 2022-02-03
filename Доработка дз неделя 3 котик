@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+<title>Кот-учёный</title>
+
+    </head>
+
+    <body>
+        <h1 style="background-color: blueviolet;">Кот учёный</h1>
+        <h2 style="background-color: cadetblue;">Самый умный котик в мире</h2>
+        <div style="background-color: rgb(189, 208, 243);">
+        <img src="assets/images/29589-37433-17.jpg" alt="cat" style="width: 30vw;">
+        </div>
+        <p>Добро пожаловать на страницу умного котика!</p>
+        <p>Самого умного кота в мире зовут Лёва. Он родился в Санкт-Петербурге, закончил Государственный университет по специальности "Программирование". На данный момент работает преподавателем, женат, имеет двоих детей.   
+        </p>
+        <p>
+            <object type="image/svg" data="assets/images/1801287-ff5722.svg" alt="cat" style="width: 5vw;">
+                <img src="assets/images/1801287-ff5722.svg" alt="cat" style="width: 5vw;">
+            </object>
+        </p>
+        <div>
+            <ul>
+                <li>Хобби кота:сон</li>
+                <li>Любимая еда:рыбка</li>
+                <li>Любимый мультфильм:"Том и Джерри"</li>
+            </ul>
+        </div>
+        <div>В настоящее время Лёва знает три яыка:русский, английский и испанский. За свою жизнь объездил много стран: успел побывать в многих странах Европы, Австралии, Канаде.</div>
+        <p>
+            <img src="assets/images/image_8.gif" alt="cat" height=" 500px;width:50%;">
+        </p>
+        <p><a href="https://rg.ru/2018/10/17/samyj-umnyj-kot-porazil-internet.html">Подробнее читайте на сайте</a></p>
+    </body>
+    
+</html>
