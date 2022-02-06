@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="background-color: burlywood;">
+    <header>
+        <h1>Портрет актрисы Жанны Самари</h1>
+        <object type="image/svg" data="assets/images/foto222.png">
+            <img src="assets/images/foto222.png" alt="colors" style="width: 5%;">
+        </object>
+    </header>
+    <nav>
+        <p>Меню:</p>
+            <ul>
+                <li><a href="#">Раздел 1</a></li>
+                <li><a href="#">Раздел 2</a></li>
+                <li><a href="#">Раздел 3</a></li>
+            </ul>
+    </nav>
+    <main>
+        <article>
+            <h2>Заголовок</h2>
+            <section>
+            <h2>Посмотрите историю картины, нажав на кнопку ниже</h2>
+    <p><button>История написания картины</button></p>
+            <section>
+        <h4>Заголовок секции</h4>
+        <p>Одновременно улыбающаяся и задумчивая, в изысканном зелено-голубом платье, актриса предстает перед зрителем на воздушном розовом фоне.</p>
+        <img src="assets/images/foto444.jpg" alt="Жанна Самари" style="width: 30%;" />
+            <section>
+        <h5>Факты о картине</h5>
+        <ul>
+            <li>Основные</li>
+            <li>Основные</li>
+            <li>Основные</li>
+            <li>Основные</li>
+        </ul>
+            </section>
+        </article>
+        <aside>
+            <img src="assets/images/foto333.gif" alt="colors" style="width: 15vw;">
+            <p>Хранится в Москве, в музее имени Пушкина. В 1877-1878 годах Ренуар написал четыре портрета Жанны Самари, каждый из которых и размерами, и композицией, и колоритом существенно отличается от других.</p>
+            <img src="assets/images/foto555.jpg" alt="face" style="width: 20%;">
+            <div>Создатель: Пьер Огюст Ренуар</div>
+        </aside>
+    </main>
+<footer>
+    <object type="image/svg" data="assets/images/foto11.png">
+        <img src="assets/images/foto11.png" alt="foto" style="width: 5%;">
+    </object>
+    <address>
+        <div>Контакты<br>
+        Город Санкт-Петербург, Улица Есенина, дом 20<br>
+        Телефон: 89214752784
+        </div>
+    </address>
+</footer>
+    </div>
+</body>
+</html>
